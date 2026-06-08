@@ -34,3 +34,9 @@ Ensure the following dependencies are installed:
 * Username: admin
 * Password: 1234
 # Note:- These credentials are for demonstration purposes only
+
+# Preview:-
+<img width="562" height="460" alt="image" src="https://github.com/user-attachments/assets/79008fa4-49bf-406b-bc82-bd40d481dcf5" />
+
+<img width="779" height="718" alt="image" src="https://github.com/user-attachments/assets/d358d986-f987-45a0-9a24-e63d174c812b" />
+
