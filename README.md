@@ -11,10 +11,10 @@ File information display
 Encrypted file detection
 
 # 🛠️ Technologies Used
-* ** C++
-* ** GTK+3
-* ** OpenSSL
-* ** AES-256 Encryption
-* ** File Handling
+* C++
+* GTK+3
+* OpenSSL
+* AES-256 Encryption
+* File Handling
 
 # Requirements
