@@ -10,7 +10,7 @@ Secure File Vault is a C++ desktop application that provides secure file encrypt
 * File information display
 * Encrypted file detection
 
-# 🛠️ Technologies Used
+# Technologies Used
 * C++
 * GTK+3
 * OpenSSL
@@ -29,3 +29,8 @@ Ensure the following dependencies are installed:
 # How To Run
 * Compile the code:- g++ securefilevault.cpp -o SecureVault.exe $(pkg-config --cflags --libs gtk+-3.0) -lssl -lcrypto
 * Run the exe program:- ./SecureVault.exe
+
+# Login Credentials
+* Username: admin
+* Password: 1234
+# Note:- These credentials are for demonstration purposes only
