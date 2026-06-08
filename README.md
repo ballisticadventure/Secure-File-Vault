@@ -9,9 +9,10 @@ Password-protected file operations
 Real-time progress bar
 File information display
 Encrypted file detection
+
 # 🛠️ Technologies Used
-C++
-GTK+3
-OpenSSL
-AES-256 Encryption
-File Handling
+1. C++
+2. GTK+3
+3. OpenSSL
+4. AES-256 Encryption
+5. File Handling
